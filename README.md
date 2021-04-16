@@ -1,4 +1,4 @@
-# extension_login_gmail_chrome_process - Captcha69.Com - MMO69.Com
+# Login account gmail with selenium C# - Captcha69.Com - MMO69.Com
 
 - Step 1: 
 
