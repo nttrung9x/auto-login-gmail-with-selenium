@@ -1,9 +1,4 @@
-var g_acc =
-{
-	email : "",
-	pass : "",
-	recovery : ""
-};
+var g_acc = { email : "", pass : "", recovery : "" };
 var timeout = 180000;
 var step = 0;
 
